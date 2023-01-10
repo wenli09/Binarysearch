@@ -31,4 +31,6 @@ public in binarySearch(int[] nums, int target){
     return -1;
     
     }
-     
+ 
+ third way
+ left < right ( left ==right)
